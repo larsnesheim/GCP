@@ -1,11 +1,16 @@
 # GCP
 Instructions to setup GCP cluster to run fortran + NAG + MPI jobs
 1. Start cluster
-2. Install intel fortran + MPI
-3. INstall NAG
-4. install NAG license
-5. graphical interface to access cluster
-6. copy data
-7. copy code
-8. compile
-9. run mpi
+1. 1. Go to GCP console, click on create VM, go to marketplace and search for HPC rocky
+1. 1. Log on to new VM  
+5. Go to intel website search for HPC tool kit and install online. copy and paste code to install
+
+7.
+8. Install intel fortran + MPI
+9. INstall NAG
+10. install NAG license
+11. graphical interface to access cluster
+12. copy data
+13. copy code
+14. compile
+15. run mpi
